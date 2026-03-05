@@ -10,3 +10,4 @@ streamlit
 plotly
 streamlit-lottie
 requests
+altair==4.2.2
